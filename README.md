@@ -12,4 +12,6 @@ Install the **requirement.txt** file from the repo **** Then the python script a
 
 ![](Quantum_Chronicles.png)
 
-![Stranger.png]()
+![](Stranger.png)
+
+
