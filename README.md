@@ -7,7 +7,7 @@ Install the **requirement.txt** file from the repo **** Then the python script a
 ### Results
 **1.First we read our data from our csv file which is present in our local directory it contains our netflix series watching data.
 ![](image1.png)
-**2. in depth analysis is done from this data set using Phyton pandas thses are our watching habits.
+**2. in depth analysis is done from this data set using Phyton pandas which are our watching habits.
 ![](image2.png)
 
 ![](Quantum_Chronicles.png)
